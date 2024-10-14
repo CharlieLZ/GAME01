@@ -1,0 +1,113 @@
+{
+  "Metadata": {
+    "title": "Simulador de Fast Food: O Jogo Definitivo de Gestão de Restaurantes",
+    "description": "Experimente a emoção de administrar um restaurante de fast food no Simulador de Fast Food. Receba pedidos, sirva clientes e gerencie sua cozinha neste emocionante jogo de simulação. Baixe e jogue hoje!",
+    "keywords": "Simulador de Fast Food, jogo Simulador de Fast Food, gestão de restaurantes, jogo de simulação, jogo de serviço de alimentação"
+  },
+  "hero": {
+    "title": "Simulador de Fast Food: Domine a Arte da Gestão de Fast Food",
+    "subtitle": "Entre no emocionante mundo da simulação de fast food!"
+  },
+  "introduction": {
+    "title": "Introdução ao Jogo",
+    "content": "Simulador de Fast Food é um jogo de simulação envolvente e acelerado que o mergulha no coração de um movimentado restaurante de fast food. Desenvolvido pela DarkPlay, este jogo testa suas habilidades de multitarefa enquanto você lida com pedidos, satisfaz clientes e mantém sua cozinha funcionando sem problemas. Como um jovem garçom, sua missão é receber pedidos, preparar alimentos e servir clientes de forma rápida e eficiente."
+  },
+  "howToPlay": {
+    "title": "Como Jogar Simulador de Fast Food",
+    "steps": [
+      "Receber Pedidos: Ouça atentamente as solicitações dos clientes e as insira corretamente.",
+      "Preparar Alimentos: Use a cozinha para cozinhar hambúrgueres, fritar asas de frango e preparar outros itens do cardápio.",
+      "Servir Rapidamente: Coloque os itens corretos nas bandejas e entregue-os aos clientes certos.",
+      "Gerenciar Tempo: Equilibre múltiplos pedidos e priorize tarefas para manter o restaurante funcionando perfeitamente.",
+      "Lidar com Pagamentos: Garanta que cada pedido seja cobrado corretamente para manter a lucratividade."
+    ]
+  },
+  "controls": {
+    "title": "Controles do Jogo",
+    "items": [
+      "E: Selecionar itens ou interagir com objetos",
+      "W, A, S, D: Mover seu personagem pelo restaurante",
+      "Mouse: Mirar e navegar pelos menus"
+    ]
+  },
+  "features": {
+    "title": "Principais Características",
+    "items": [
+      "Ambiente realista de restaurante de fast food",
+      "Variedade de itens do cardápio, incluindo hambúrgueres, refrigerantes, batatas fritas e asas de frango",
+      "Interações dinâmicas com clientes",
+      "Desafios de gestão de tempo",
+      "Simulação de gestão de cozinha",
+      "Aspectos financeiros de gerenciar um restaurante"
+    ]
+  },
+  "screenshots": {
+    "title": "Capturas de Tela do Jogo"
+  },
+  "playerReviews": {
+    "title": "O que os Jogadores Estão Dizendo Sobre Simulador de Fast Food",
+    "reviews": [
+      {
+        "content": "Este jogo realmente captura o caos de trabalhar em fast food. É viciante e desafiador!",
+        "author": "BurgerMaster99"
+      },
+      {
+        "content": "Eu amo como as interações com os clientes são realistas. É como se eu estivesse de volta ao meu primeiro emprego!",
+        "author": "NostalgicServer"
+      },
+      {
+        "content": "A parte de gestão de tempo é perfeita. É uma ótima maneira de melhorar as habilidades de multitarefa.",
+        "author": "EfficiencyQueen"
+      },
+      {
+        "content": "Simulador de Fast Food é surpreendentemente educativo. Aprendi muito sobre operações de restaurante.",
+        "author": "CuriousCook"
+      },
+      {
+        "content": "Os gráficos são incríveis! A comida parece tão real que me deixa com fome enquanto jogo.",
+        "author": "FoodieGamer"
+      },
+      {
+        "content": "Eu aprecio o aspecto de gestão financeira. Isso adiciona profundidade à jogabilidade.",
+        "author": "BusinessMinded"
+      },
+      {
+        "content": "A variedade de itens do cardápio mantém o jogo interessante. Sempre há algo novo para dominar!",
+        "author": "MenuExplorer"
+      },
+      {
+        "content": "Simulador de Fast Food é meu jogo preferido para aliviar o estresse. É caótico, mas tão satisfatório!",
+        "author": "ZenChef"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Perguntas Frequentes",
+    "questions": [
+      {
+        "question": "O Simulador de Fast Food é gratuito para jogar?",
+        "answer": "O Simulador de Fast Food oferece uma versão gratuita com recursos básicos. Conteúdo premium está disponível por meio de compras no aplicativo."
+      },
+      {
+        "question": "Posso jogar Simulador de Fast Food offline?",
+        "answer": "Sim, Simulador de Fast Food pode ser jogado offline, permitindo que você aproveite o jogo a qualquer hora e em qualquer lugar."
+      },
+      {
+        "question": "Com que frequência novos conteúdos são adicionados ao Simulador de Fast Food?",
+        "answer": "Atualizamos o Simulador de Fast Food regularmente com novos itens do cardápio, layouts de restaurantes e desafios para manter a jogabilidade fresca e emocionante."
+      },
+      {
+        "question": "Existem restrições de idade para o Simulador de Fast Food?",
+        "answer": "O Simulador de Fast Food é classificado como Livre para Todos e é adequado para jogadores de todas as idades."
+      },
+      {
+        "question": "Posso personalizar meu restaurante no Simulador de Fast Food?",
+        "answer": "Sim, à medida que você progride no jogo, desbloqueará várias opções de personalização para o layout e a decoração do seu restaurante."
+      },
+      {
+        "question": "Há um modo multiplayer no Simulador de Fast Food?",
+        "answer": "Atualmente, o Simulador de Fast Food é uma experiência para um jogador, mas estamos considerando adicionar recursos multiplayer em futuras atualizações."
+      }
+    ]
+  }
+}

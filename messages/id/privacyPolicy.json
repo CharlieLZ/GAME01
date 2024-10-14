@@ -1,0 +1,30 @@
+{
+    "Metadata": {
+        "title": "Kebijakan Privasi | Simulator Makanan Cepat Saji",
+        "description": "Temukan bagaimana kami melindungi privasi Anda saat Anda menikmati Simulator Makanan Cepat Saji, permainan puzzle online yang memikat."
+    },
+    "title": "Kebijakan Privasi",
+    "subtitle": "Melindungi Data Anda dalam Simulator Makanan Cepat Saji",
+    "sections": {
+        "informationCollection": {
+            "title": "Pengumpulan Informasi",
+            "content": "Kami mengumpulkan data permainan Anda dalam Simulator Makanan Cepat Saji, termasuk metrik kinerja Anda, strategi penempatan makanan, dan statistik permainan. Informasi ini digunakan untuk meningkatkan pengalaman bermain Anda dan menyempurnakan fitur permainan."
+        },
+        "dataSecurity": {
+            "title": "Keamanan Data",
+            "content": "Kami menggunakan teknologi enkripsi mutakhir untuk melindungi data Anda, memastikan data tersebut setara aman dengan skor tinggi Anda dalam Simulator Makanan Cepat Saji. Dalam lanskap digital ini, kami terus waspada untuk melindungi informasi Anda."
+        },
+        "cookieUsage": {
+            "title": "Penggunaan Cookie",
+            "content": "Cookie digunakan untuk menyimpan preferensi dan pengaturan permainan Anda, seperti bagaimana Simulator Makanan Cepat Saji mengingat strategi kemenangan Anda dan tema restoran favorit Anda. Cookie ini memungkinkan kami memberikan pengalaman bermain yang lebih disesuaikan dan mendalam."
+        },
+        "policyUpdate": {
+            "title": "Pembaruan Kebijakan",
+            "content": "Kami mungkin akan memperbarui kebijakan privasi ini secara berkala untuk mencerminkan perubahan dalam praktik kami atau fitur permainan. Kami mendorong Anda untuk meninjau kebijakan ini secara teratur agar Anda tetap mendapatkan informasi tentang bagaimana kami mengelola informasi Anda dalam Simulator Makanan Cepat Saji."
+        },
+        "noLogin": {
+            "title": "Tidak Perlu Login",
+            "content": "Simulator Makanan Cepat Saji dirancang untuk permainan instan tanpa perlu membuat akun atau login. Anda dapat terjun langsung ke petualangan memecahkan teka-teki kuliner Anda langsung di browser Anda, tanpa perlu informasi identifikasi pribadi."
+        }
+    }
+}

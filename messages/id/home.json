@@ -1,0 +1,113 @@
+{
+    "Metadata": {
+        "title": "Fast Food Simulator: Permainan Manajemen Restoran Terbaik",
+        "description": "Rasakan sensasi mengelola restoran cepat saji di Fast Food Simulator. Ambil pesanan, layani pelanggan, dan atur dapur Anda dalam permainan simulasi yang seru ini. Unduh dan mainkan sekarang!",
+        "keywords": "Fast Food Simulator, permainan Fast Food Simulator, manajemen restoran, permainan simulasi, permainan layanan makanan"
+    },
+    "hero": {
+        "title": "Fast Food Simulator: Kuasai Seni Pengelolaan Cepat Saji",
+        "subtitle": "Masuki dunia simulasi cepat saji yang menarik!"
+    },
+    "introduction": {
+        "title": "Pengenalan Permainan",
+        "content": "Fast Food Simulator adalah permainan simulasi yang seru dan cepat yang membawa Anda ke inti dari restoran cepat saji yang ramai. Dikembangkan oleh DarkPlay, permainan ini menguji kemampuan multitasking Anda saat Anda menangani pesanan, memuaskan pelanggan, dan menjaga dapur berjalan dengan lancar. Sebagai pelayan muda, misi Anda adalah mengambil pesanan, menyiapkan makanan, dan melayani pelanggan dengan cepat dan efisien."
+    },
+    "howToPlay": {
+        "title": "Cara Bermain Fast Food Simulator",
+        "steps": [
+            "Ambil Pesanan: Dengarkan permintaan pelanggan dengan hati-hati dan masukkan dengan benar.",
+            "Siapkan Makanan: Gunakan dapur untuk memasak burger, menggoreng sayap ayam, dan menyiapkan item menu lainnya.",
+            "Layani Dengan Cepat: Tempatkan item yang tepat di nampan dan antarkan ke pelanggan yang tepat.",
+            "Kelola Waktu: Seimbangkan banyak pesanan dan prioritaskan tugas untuk menjaga restoran berjalan dengan lancar.",
+            "Tangani Pembayaran: Pastikan setiap pesanan dikenakan biaya dengan benar untuk menjaga keuntungan."
+        ]
+    },
+    "controls": {
+        "title": "Kontrol Permainan",
+        "items": [
+            "E: Pilih item atau berinteraksi dengan objek",
+            "W, A, S, D: Gerakkan karakter Anda di sekitar restoran",
+            "Mouse: Arahkan dan navigasi menu"
+        ]
+    },
+    "features": {
+        "title": "Fitur Utama",
+        "items": [
+            "Lingkungan restoran cepat saji yang realistis",
+            "Beragam item menu termasuk hamburger, minuman ringan, kentang goreng, dan sayap ayam",
+            "Interaksi pelanggan yang dinamis",
+            "Tantangan manajemen waktu",
+            "Simulasi manajemen dapur",
+            "Aspek keuangan menjalankan restoran"
+        ]
+    },
+    "screenshots": {
+        "title": "Cuplikan Permainan"
+    },
+    "playerReviews": {
+        "title": "Apa Kata Pemain Tentang Fast Food Simulator",
+        "reviews": [
+            {
+                "content": "Permainan ini sungguh menggambarkan kekacauan bekerja di restoran cepat saji. Sangat adiktif dan menantang!",
+                "author": "BurgerMaster99"
+            },
+            {
+                "content": "Saya suka bagaimana interaksi pelanggan yang realistis. Rasanya seperti kembali ke pekerjaan pertama saya!",
+                "author": "NostalgicServer"
+            },
+            {
+                "content": "Aspek manajemen waktunya sangat tepat. Ini cara yang bagus untuk meningkatkan keterampilan multitasking.",
+                "author": "EfficiencyQueen"
+            },
+            {
+                "content": "Fast Food Simulator ternyata edukatif. Saya belajar banyak tentang operasi restoran.",
+                "author": "CuriousCook"
+            },
+            {
+                "content": "Grafiknya menakjubkan! Makanannya terlihat sangat nyata, membuat saya lapar saat bermain.",
+                "author": "FoodieGamer"
+            },
+            {
+                "content": "Saya menghargai aspek manajemen keuangan. Ini menambah kedalaman pada gameplay.",
+                "author": "BusinessMinded"
+            },
+            {
+                "content": "Varietas item menu membuat permainan tetap menarik. Selalu ada sesuatu yang baru untuk dikuasai!",
+                "author": "MenuExplorer"
+            },
+            {
+                "content": "Fast Food Simulator adalah permainan favorit saya untuk menghilangkan stres. Ini kacau tapi sangat memuaskan!",
+                "author": "ZenChef"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Pertanyaan yang Sering Diajukan",
+        "questions": [
+            {
+                "question": "Apakah Fast Food Simulator gratis untuk dimainkan?",
+                "answer": "Fast Food Simulator menawarkan versi gratis dengan fitur dasar. Konten premium tersedia melalui pembelian dalam aplikasi."
+            },
+            {
+                "question": "Bisakah saya bermain Fast Food Simulator secara offline?",
+                "answer": "Ya, Fast Food Simulator dapat dimainkan secara offline, memungkinkan Anda menikmati permainan kapan saja, di mana saja."
+            },
+            {
+                "question": "Seberapa sering konten baru ditambahkan ke Fast Food Simulator?",
+                "answer": "Kami memperbarui Fast Food Simulator secara teratur dengan item menu baru, tata letak restoran, dan tantangan untuk menjaga gameplay tetap segar dan menarik."
+            },
+            {
+                "question": "Apakah ada batasan usia untuk Fast Food Simulator?",
+                "answer": "Fast Food Simulator diberi rating E untuk Semua Orang dan cocok untuk pemain dari segala usia."
+            },
+            {
+                "question": "Bisakah saya menyesuaikan restoran saya di Fast Food Simulator?",
+                "answer": "Ya, saat Anda maju dalam permainan, Anda akan membuka berbagai opsi kustomisasi untuk tata letak dan dekor restoran Anda."
+            },
+            {
+                "question": "Apakah ada mode multiplayer di Fast Food Simulator?",
+                "answer": "Saat ini, Fast Food Simulator adalah pengalaman pemain tunggal, tetapi kami sedang mempertimbangkan menambahkan fitur multiplayer di pembaruan mendatang."
+            }
+        ]
+    }
+}

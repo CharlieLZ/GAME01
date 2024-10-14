@@ -1,0 +1,113 @@
+{
+    "Metadata": {
+        "title": "Fast Food Simulator: Das ultimative Restaurant-Management-Spiel",
+        "description": "Erleben Sie den Nervenkitzel, ein Fast-Food-Restaurant in Fast Food Simulator zu führen. Nehmen Sie Bestellungen auf, bedienen Sie Kunden und verwalten Sie Ihre Küche in diesem aufregenden Simulationsspiel. Laden Sie es herunter und spielen Sie noch heute!",
+        "keywords": "Fast Food Simulator, Fast Food Simulator Spiel, Restaurant-Management, Simulationsspiel, Gastronomie-Spiel"
+    },
+    "hero": {
+        "title": "Fast Food Simulator: Meistern Sie die Kunst des Fast-Food-Managements",
+        "subtitle": "Tauchen Sie ein in die aufregende Welt der Fast-Food-Simulation!"
+    },
+    "introduction": {
+        "title": "Spieleinführung",
+        "content": "Fast Food Simulator ist ein rasantes, fesselndes Simulationsspiel, das Sie in das Herz eines geschäftigen Fast-Food-Restaurants eintauchen lässt. Entwickelt von DarkPlay, testet dieses Spiel Ihre Multitasking-Fähigkeiten, während Sie Bestellungen jonglieren, Kunden zufriedenstellen und Ihre Küche reibungslos am Laufen halten. Als junger Kellner ist es Ihre Mission, Bestellungen aufzunehmen, Essen zuzubereiten und Kunden schnell und effizient zu bedienen."
+    },
+    "howToPlay": {
+        "title": "Wie man Fast Food Simulator spielt",
+        "steps": [
+            "Bestellungen aufnehmen: Hören Sie genau auf die Wünsche der Kunden und geben Sie sie korrekt ein.",
+            "Essen zubereiten: Nutzen Sie die Küche, um Burger zu kochen, Hühnerflügel zu braten und andere Menüpunkte vorzubereiten.",
+            "Schnell bedienen: Platzieren Sie die richtigen Artikel auf Tabletts und liefern Sie sie an die richtigen Kunden.",
+            "Zeit verwalten: Balancieren Sie mehrere Bestellungen und priorisieren Sie Aufgaben, um das Restaurant reibungslos laufen zu lassen.",
+            "Zahlungen abwickeln: Stellen Sie sicher, dass jede Bestellung korrekt abgerechnet wird, um die Rentabilität zu erhalten."
+        ]
+    },
+    "controls": {
+        "title": "Spielsteuerung",
+        "items": [
+            "E: Artikel auswählen oder mit Objekten interagieren",
+            "W, A, S, D: Bewegen Sie Ihren Charakter im Restaurant",
+            "Maus: Zielen und Menüs navigieren"
+        ]
+    },
+    "features": {
+        "title": "Hauptmerkmale",
+        "items": [
+            "Realistische Fast-Food-Restaurantumgebung",
+            "Verschiedene Menüpunkte inklusive Hamburger, Softdrinks, Pommes und Hühnerflügel",
+            "Dynamische Kundeninteraktionen",
+            "Herausforderungen im Zeitmanagement",
+            "Küchenmanagement-Simulation",
+            "Finanzielle Aspekte der Restaurantführung"
+        ]
+    },
+    "screenshots": {
+        "title": "Spiel-Screenshots"
+    },
+    "playerReviews": {
+        "title": "Was Spieler über Fast Food Simulator sagen",
+        "reviews": [
+            {
+                "content": "Dieses Spiel fängt das Chaos bei der Arbeit im Fast Food wirklich ein. Es ist süchtig machend und herausfordernd!",
+                "author": "BurgerMaster99"
+            },
+            {
+                "content": "Ich liebe es, wie realistisch die Kundeninteraktionen sind. Es ist, als wäre ich zurück in meinem ersten Job!",
+                "author": "NostalgicServer"
+            },
+            {
+                "content": "Der Aspekt des Zeitmanagements ist perfekt abgestimmt. Es ist eine großartige Möglichkeit, Multitasking-Fähigkeiten zu verbessern.",
+                "author": "EfficiencyQueen"
+            },
+            {
+                "content": "Fast Food Simulator ist überraschend lehrreich. Ich habe viel über Restaurantbetriebe gelernt.",
+                "author": "CuriousCook"
+            },
+            {
+                "content": "Die Grafiken sind erstaunlich! Das Essen sieht so real aus, dass es mich beim Spielen hungrig macht.",
+                "author": "FoodieGamer"
+            },
+            {
+                "content": "Ich schätze den finanziellen Managementaspekt. Er verleiht dem Spiel Tiefe.",
+                "author": "BusinessMinded"
+            },
+            {
+                "content": "Die Vielfalt der Menüpunkte hält das Spiel interessant. Immer etwas Neues zu meistern!",
+                "author": "MenuExplorer"
+            },
+            {
+                "content": "Fast Food Simulator ist mein Go-to-Spiel zur Stressbewältigung. Es ist chaotisch, aber so befriedigend!",
+                "author": "ZenChef"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Häufig gestellte Fragen",
+        "questions": [
+            {
+                "question": "Ist Fast Food Simulator kostenlos spielbar?",
+                "answer": "Fast Food Simulator bietet eine kostenlose Version mit grundlegenden Funktionen. Premium-Inhalte sind über In-App-Käufe verfügbar."
+            },
+            {
+                "question": "Kann ich Fast Food Simulator offline spielen?",
+                "answer": "Ja, Fast Food Simulator kann offline gespielt werden, sodass Sie das Spiel jederzeit und überall genießen können."
+            },
+            {
+                "question": "Wie oft wird neuer Inhalt zu Fast Food Simulator hinzugefügt?",
+                "answer": "Wir aktualisieren Fast Food Simulator regelmäßig mit neuen Menüpunkten, Restaurantlayouts und Herausforderungen, um das Gameplay frisch und aufregend zu halten."
+            },
+            {
+                "question": "Gibt es Altersbeschränkungen für Fast Food Simulator?",
+                "answer": "Fast Food Simulator ist für alle Altersgruppen geeignet und mit der Klassifizierung E für Everyone bewertet."
+            },
+            {
+                "question": "Kann ich mein Restaurant in Fast Food Simulator anpassen?",
+                "answer": "Ja, im Laufe des Spiels schalten Sie verschiedene Anpassungsoptionen für das Layout und die Dekoration Ihres Restaurants frei."
+            },
+            {
+                "question": "Gibt es einen Mehrspielermodus in Fast Food Simulator?",
+                "answer": "Derzeit ist Fast Food Simulator ein Einzelspieler-Erlebnis, aber wir erwägen die Einführung von Mehrspieler-Features in zukünftigen Updates."
+            }
+        ]
+    }
+}

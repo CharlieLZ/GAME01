@@ -1,0 +1,30 @@
+{
+    "Metadata": {
+        "title": "Polisi Privasi | Simulasi Makanan Segera",
+        "description": "Ketahui bagaimana kami melindungi privasi anda semasa anda menikmati Simulasi Makanan Segera, permainan teka-teki dalam talian yang memikat."
+    },
+    "title": "Polisi Privasi",
+    "subtitle": "Melindungi Data Anda dalam Simulasi Makanan Segera",
+    "sections": {
+        "informationCollection": {
+            "title": "Pengumpulan Maklumat",
+            "content": "Kami mengumpul data permainan anda dalam Simulasi Makanan Segera, termasuk metrik prestasi anda, strategi penempatan makanan, dan statistik permainan. Maklumat ini digunakan untuk meningkatkan pengalaman permainan anda dan menambahbaik ciri-ciri permainan."
+        },
+        "dataSecurity": {
+            "title": "Keselamatan Data",
+            "content": "Kami menggunakan teknologi penyulitan canggih untuk melindungi data anda, menjamin ia seaman skor tinggi anda dalam Simulasi Makanan Segera. Dalam landskap digital ini, kami sentiasa berjaga-jaga untuk melindungi maklumat anda."
+        },
+        "cookieUsage": {
+            "title": "Penggunaan Kuki",
+            "content": "Kuki digunakan untuk menyimpan pilihan dan tetapan permainan anda, sepertimana Simulasi Makanan Segera mengingati strategi kemenangan dan tema restoran kegemaran anda. Kuki ini membolehkan kami menyampaikan pengalaman permainan yang lebih disesuaikan dan menyerap."
+        },
+        "policyUpdate": {
+            "title": "Kemas Kini Polisi",
+            "content": "Kami mungkin mengemas kini polisi privasi ini secara berkala untuk mencerminkan perubahan dalam amalan kami atau ciri-ciri permainan. Kami menggalakkan anda untuk menyemak polisi ini secara berkala untuk tetap mendapat maklumat tentang bagaimana kami mengurus maklumat anda dalam Simulasi Makanan Segera."
+        },
+        "noLogin": {
+            "title": "Tiada Log Masuk Diperlukan",
+            "content": "Simulasi Makanan Segera direka untuk dimainkan serta-merta tanpa keperluan untuk membuat akaun atau log masuk. Anda boleh terus terjun ke dalam pengembaraan menyelesaikan teka-teki masakan anda secara langsung dalam pelayar anda, tanpa memerlukan maklumat pengenalan peribadi."
+        }
+    }
+}

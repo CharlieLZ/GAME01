@@ -1,0 +1,34 @@
+{
+  "Metadata": {
+    "title": "Ketentuan Penggunaan | Simulator Fast Food",
+    "description": "Temukan aturan dapur sebelum Anda mulai membalik burger dan memecahkan teka-teki di Simulator Fast Food."
+  },
+  "title": "Ketentuan Penggunaan",
+  "subtitle": "Resep Anda untuk pengalaman Simulator Fast Food yang Adil dan Menyenangkan",
+  "sections": {
+    "acceptance": {
+      "title": "Menerima Menu",
+      "content": "Dengan memasuki Simulator Fast Food, Anda setuju untuk mengikuti aturan rumah kami. Anggaplah itu seperti mengenakan topi koki virtual Anda - Anda berkomitmen untuk pengalaman kuliner penuh!"
+    },
+    "userBehavior": {
+      "title": "Etika Dapur",
+      "content": "Di restoran virtual kami, perilaku baik sama pentingnya dengan makanan yang enak. Bermainlah dengan adil, hormati sesama koki, dan jaga agar dapur tetap bebas drama. Segala tindakan curang mungkin menyebabkan Anda harus menggantungkan celemek selamanya."
+    },
+    "disclaimer": {
+      "title": "Panasnya Dapur",
+      "content": "Simulator Fast Food bisa menjadi intens seperti di dapur nyata saat jam sibuk. Kami tidak bertanggung jawab jika Anda merasakan panas dari level yang rumit atau permainan yang kompetitif. Ingat, ini hanya permainan - jangan biarkan hal itu membebani Anda!"
+    },
+    "modification": {
+      "title": "Mengubah Menu",
+      "content": "Kami mungkin menyegarkan ketentuan ini sesekali, seperti kami memperbarui resep teka-teki kami. Melanjutkan bermain setelah perubahan berarti Anda setuju dengan rasa baru dari ketentuan kami."
+    },
+    "noAccount": {
+      "title": "Tidak Perlu Reservasi",
+      "content": "Simulator Fast Food adalah restoran untuk umum - tidak diperlukan akun! Langsung masuk ke dapur dari browser Anda. Ingat saja, tanpa akun, mahakarya kuliner dan pencapaian Anda mungkin tidak disimpan untuk lain kali."
+    },
+    "intellectualProperty": {
+      "title": "Saus Rahasia Kami",
+      "content": "Segala sesuatu dalam Simulator Fast Food - dari grafis yang menggugah selera hingga mekanisme permainan yang memukau - adalah resep spesial kami. Tolong jangan coba menyalin, membagikan, atau merombak bahan rahasia kami tanpa meminta izin kepada kepala koki (yaitu kami) terlebih dahulu."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+    "Metadata": {
+        "title": "Chính sách Bảo mật | Trình mô phỏng Thức ăn Nhanh",
+        "description": "Khám phá cách chúng tôi bảo vệ quyền riêng tư của bạn trong khi bạn tận hưởng Trình mô phỏng Thức ăn Nhanh, trò chơi xếp hình trực tuyến hấp dẫn."
+    },
+    "title": "Chính sách Bảo mật",
+    "subtitle": "Bảo vệ Dữ liệu của Bạn trong Trình mô phỏng Thức ăn Nhanh",
+    "sections": {
+        "informationCollection": {
+            "title": "Thu thập Thông tin",
+            "content": "Chúng tôi thu thập dữ liệu trò chơi của bạn trong Trình mô phỏng Thức ăn Nhanh, bao gồm các chỉ số hiệu suất của bạn, chiến lược đặt món ăn, và thống kê chơi game. Thông tin này được sử dụng để cải thiện trải nghiệm chơi game của bạn và hoàn thiện các tính năng của trò chơi."
+        },
+        "dataSecurity": {
+            "title": "Bảo mật Dữ liệu",
+            "content": "Chúng tôi sử dụng công nghệ mã hóa tiên tiến để bảo vệ dữ liệu của bạn, đảm bảo nó an toàn giống như điểm số cao của bạn trong Trình mô phỏng Thức ăn Nhanh. Trong bối cảnh kỹ thuật số này, chúng tôi luôn theo dõi để bảo vệ thông tin của bạn."
+        },
+        "cookieUsage": {
+            "title": "Sử dụng Cookie",
+            "content": "Cookie được sử dụng để lưu trữ tùy chọn và cài đặt trò chơi của bạn, giống như cách Trình mô phỏng Thức ăn Nhanh ghi nhớ chiến lược chiến thắng và chủ đề nhà hàng yêu thích của bạn. Những cookie này giúp chúng tôi cung cấp trải nghiệm chơi game cá nhân hóa và sống động hơn."
+        },
+        "policyUpdate": {
+            "title": "Cập nhật Chính sách",
+            "content": "Chúng tôi có thể cập nhật định kỳ chính sách bảo mật này để phản ánh những thay đổi trong thực tiễn của chúng tôi hoặc các tính năng của trò chơi. Chúng tôi khuyến khích bạn thường xuyên xem lại chính sách này để cập nhật thông tin về cách chúng tôi quản lý thông tin của bạn trong Trình mô phỏng Thức ăn Nhanh."
+        },
+        "noLogin": {
+            "title": "Không Cần Đăng Nhập",
+            "content": "Trình mô phỏng Thức ăn Nhanh được thiết kế để chơi ngay lập tức mà không cần tạo tài khoản hoặc đăng nhập. Bạn có thể bắt đầu cuộc phiêu lưu giải câu đố ẩm thực của mình trực tiếp trên trình duyệt, không cần thông tin nhận diện cá nhân."
+        }
+    }
+}

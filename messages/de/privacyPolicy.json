@@ -1,0 +1,30 @@
+{
+    "Metadata": {
+        "title": "Datenschutzerklärung | Fast Food Simulator",
+        "description": "Erfahren Sie, wie wir Ihre Privatsphäre schützen, während Sie Fast Food Simulator, das fesselnde Online-Puzzlespiel, genießen."
+    },
+    "title": "Datenschutzerklärung",
+    "subtitle": "Schutz Ihrer Daten im Fast Food Simulator",
+    "sections": {
+        "informationCollection": {
+            "title": "Informationssammlung",
+            "content": "Wir sammeln Ihre Spieldaten im Fast Food Simulator, einschließlich Ihrer Leistungskennzahlen, Lebensmittelplatzierungsstrategien und Spielstatistiken. Diese Informationen werden genutzt, um Ihr Spielerlebnis zu verbessern und die Funktionen des Spiels zu optimieren."
+        },
+        "dataSecurity": {
+            "title": "Datensicherheit",
+            "content": "Wir verwenden modernste Verschlüsselungstechnologie, um Ihre Daten zu schützen und sicherzustellen, dass sie genauso sicher sind wie Ihre hohen Punktzahlen im Fast Food Simulator. In dieser digitalen Landschaft sind wir stets wachsam, um Ihre Informationen zu schützen."
+        },
+        "cookieUsage": {
+            "title": "Verwendung von Cookies",
+            "content": "Cookies werden verwendet, um Ihre Spieleinstellungen und Präferenzen zu speichern, ähnlich wie Fast Food Simulator Ihre Gewinnerstrategien und Lieblingsthemen für Restaurants merkt. Diese Cookies ermöglichen es uns, ein maßgeschneidertes und intensiveres Spielerlebnis zu bieten."
+        },
+        "policyUpdate": {
+            "title": "Richtlinienaktualisierungen",
+            "content": "Wir können diese Datenschutzerklärung von Zeit zu Zeit aktualisieren, um Änderungen in unseren Praktiken oder Spielfunktionen widerzuspiegeln. Wir empfehlen Ihnen, diese Richtlinie regelmäßig zu überprüfen, um informiert zu bleiben, wie wir Ihre Informationen im Fast Food Simulator verwalten."
+        },
+        "noLogin": {
+            "title": "Kein Login erforderlich",
+            "content": "Fast Food Simulator ist für sofortiges Spielen konzipiert, ohne dass eine Kontoerstellung oder Anmeldung erforderlich ist. Sie können direkt in Ihrem Browser in Ihr kulinarisches Puzzl-Abenteuer eintauchen, ohne dass persönliche Identifikationsinformationen benötigt werden."
+        }
+    }
+}

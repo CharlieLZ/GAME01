@@ -1,0 +1,34 @@
+{
+    "Metadata": {
+        "title": "Conditions d'utilisation | Simulateur de Restauration Rapide",
+        "description": "Découvrez les règles de la cuisine avant de commencer à retourner des burgers et à résoudre des énigmes dans le Simulateur de Restauration Rapide."
+    },
+    "title": "Conditions d'utilisation",
+    "subtitle": "Votre recette pour une expérience équitable et amusante dans le Simulateur de Restauration Rapide",
+    "sections": {
+        "acceptance": {
+            "title": "Accepter le Menu",
+            "content": "En plongeant dans le Simulateur de Restauration Rapide, vous acceptez de suivre nos règles de la maison. Pensez-y comme si vous mettiez votre toque de chef virtuel - vous vous engagez dans l'expérience culinaire complète !"
+        },
+        "userBehavior": {
+            "title": "Étiquette de Cuisine",
+            "content": "Dans notre restaurant virtuel, un bon comportement est aussi important que de bons plats. Jouez équitablement, respectez vos collègues chefs, et évitez les drames en cuisine. Toute tricherie pourrait entraîner le fait de raccrocher votre tablier pour de bon."
+        },
+        "disclaimer": {
+            "title": "La Chaleur de la Cuisine",
+            "content": "Le Simulateur de Restauration Rapide peut être aussi intense qu'une vraie cuisine pendant le coup de feu. Nous ne sommes pas responsables si vous ressentez la pression des niveaux difficiles ou de la compétition. Rappelez-vous, ce n'est qu'un jeu - ne vous laissez pas brûler par celui-ci !"
+        },
+        "modification": {
+            "title": "Changer le Menu",
+            "content": "Nous pourrions épicer ces conditions de temps en temps, tout comme nous mettons à jour nos recettes d'énigmes. Continuer à jouer après les changements signifie que vous êtes d'accord avec la nouvelle saveur de nos conditions."
+        },
+        "noAccount": {
+            "title": "Pas de Réservation Nécessaire",
+            "content": "Le Simulateur de Restauration Rapide est un restaurant sans réservation - aucun compte requis ! Entrez directement dans la cuisine depuis votre navigateur. N'oubliez pas qu'en l'absence de compte, vos chefs-d'œuvre culinaires et vos succès pourraient ne pas être sauvegardés pour la prochaine fois."
+        },
+        "intellectualProperty": {
+            "title": "Notre Sauce Secrète",
+            "content": "Tout dans le Simulateur de Restauration Rapide - des graphismes pétillants aux mécaniques de jeu alléchantes - est notre recette spéciale. Veuillez ne pas essayer de copier, partager ou remixer nos ingrédients secrets sans demander au chef en chef (c'est nous) d'abord."
+        }
+    }
+}

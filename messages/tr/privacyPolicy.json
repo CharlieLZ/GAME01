@@ -1,0 +1,30 @@
+{
+  "Metadata": {
+    "title": "Gizlilik Politikası | Fast Food Simulator",
+    "description": "Fast Food Simulator, büyüleyici çevrimiçi bulmaca oyununu oynarken gizliliğinizi nasıl koruduğumuzu keşfedin."
+  },
+  "title": "Gizlilik Politikası",
+  "subtitle": "Fast Food Simulator'da Verilerinizi Koruma",
+  "sections": {
+    "informationCollection": {
+      "title": "Bilgi Toplama",
+      "content": "Fast Food Simulator'da oyun verilerinizi, performans ölçümleriniz, yemek yerleştirme stratejileriniz ve oyun istatistikleriniz dahil olmak üzere topluyoruz. Bu bilgiler, oyun deneyiminizi geliştirmek ve oyunun özelliklerini iyileştirmek için kullanılmaktadır."
+    },
+    "dataSecurity": {
+      "title": "Veri Güvenliği",
+      "content": "Verilerinizi korumak için en son şifreleme teknolojisini kullanıyoruz ve Fast Food Simulator'daki yüksek skorlarınız kadar güvenli olmasını sağlıyoruz. Bu dijital ortamda, bilgilerinizi korumak için sürekli dikkatliyiz."
+    },
+    "cookieUsage": {
+      "title": "Çerez Kullanımı",
+      "content": "Çerezler, oyun tercihlerinizi ve ayarlarınızı saklamak için kullanılır, tıpkı Fast Food Simulator'un kazanan stratejilerinizi ve favori restoran temalarınızı hatırlaması gibi. Bu çerezler, daha özelleştirilmiş ve etkileyici bir oyun deneyimi sunabilmemizi sağlamaktadır."
+    },
+    "policyUpdate": {
+      "title": "Politika Güncellemeleri",
+      "content": "Uygulamalarımızdaki veya oyun özelliklerindeki değişiklikleri yansıtmak için bu gizlilik politikasını periyodik olarak güncelleyebiliriz. Fast Food Simulator'da bilgilerinizi nasıl yönettiğimiz hakkında bilgi sahibi olabilmeniz için bu politikayı düzenli olarak gözden geçirmenizi öneririz."
+    },
+    "noLogin": {
+      "title": "Giriş Gerekmez",
+      "content": "Fast Food Simulator, hesap oluşturma veya giriş yapılmasına gerek kalmadan anında oynama için tasarlanmıştır. Tarayıcınızda kişisel kimlik bilgisi gerektirmeden mutfak bulmacası çözme maceranıza dalabilirsiniz."
+    }
+  }
+}

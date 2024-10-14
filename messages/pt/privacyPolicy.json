@@ -1,0 +1,30 @@
+{
+  "Metadata": {
+    "title": "Política de Privacidade | Simulador de Comida Rápida",
+    "description": "Descubra como protegemos sua privacidade enquanto você desfruta do Simulador de Comida Rápida, o cativante jogo de quebra-cabeça online."
+  },
+  "title": "Política de Privacidade",
+  "subtitle": "Protegendo Seus Dados no Simulador de Comida Rápida",
+  "sections": {
+    "informationCollection": {
+      "title": "Coleta de Informações",
+      "content": "Coletamos seus dados de jogo no Simulador de Comida Rápida, incluindo suas métricas de desempenho, estratégias de colocação de comida e estatísticas de jogo. Essas informações são utilizadas para aprimorar sua experiência de jogo e refinar as funcionalidades do jogo."
+    },
+    "dataSecurity": {
+      "title": "Segurança de Dados",
+      "content": "Utilizamos tecnologia de criptografia de última geração para proteger seus dados, garantindo que eles estejam tão seguros quanto suas pontuações altas no Simulador de Comida Rápida. Neste cenário digital, mantemos vigilância constante para proteger suas informações."
+    },
+    "cookieUsage": {
+      "title": "Uso de Cookies",
+      "content": "Os cookies são usados para armazenar suas preferências e configurações de jogo, assim como o Simulador de Comida Rápida lembra suas estratégias vencedoras e temas de restaurante favoritos. Esses cookies nos permitem oferecer uma experiência de jogo mais personalizada e imersiva."
+    },
+    "policyUpdate": {
+      "title": "Atualizações da Política",
+      "content": "Podemos atualizar periodicamente esta política de privacidade para refletir mudanças em nossas práticas ou funcionalidades do jogo. Recomendamos que você revise esta política regularmente para se manter informado sobre como gerenciamos suas informações no Simulador de Comida Rápida."
+    },
+    "noLogin": {
+      "title": "Nenhum Login Requerido",
+      "content": "O Simulador de Comida Rápida é projetado para jogo instantâneo sem a necessidade de criação de conta ou login. Você pode mergulhar em sua aventura culinária de resolução de quebra-cabeças diretamente em seu navegador, sem necessidade de informações de identificação pessoal."
+    }
+  }
+}

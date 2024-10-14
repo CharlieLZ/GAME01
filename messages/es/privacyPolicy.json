@@ -1,0 +1,30 @@
+{
+    "Metadata": {
+        "title": "Política de Privacidad | Simulador de Comida Rápida",
+        "description": "Descubre cómo protegemos tu privacidad mientras disfrutas de Simulador de Comida Rápida, el cautivador juego de rompecabezas en línea."
+    },
+    "title": "Política de Privacidad",
+    "subtitle": "Protegiendo Tus Datos en Simulador de Comida Rápida",
+    "sections": {
+        "informationCollection": {
+            "title": "Recopilación de Información",
+            "content": "Recopilamos tus datos de juego en Simulador de Comida Rápida, incluidos tus métricas de rendimiento, estrategias de colocación de alimentos y estadísticas de juego. Esta información se utiliza para mejorar tu experiencia de juego y perfeccionar las características del juego."
+        },
+        "dataSecurity": {
+            "title": "Seguridad de Datos",
+            "content": "Empleamos tecnología de encriptación de última generación para proteger tus datos, asegurándonos de que estén tan seguros como tus puntajes altos en Simulador de Comida Rápida. En este entorno digital, mantenemos una vigilancia constante para proteger tu información."
+        },
+        "cookieUsage": {
+            "title": "Uso de Cookies",
+            "content": "Se utilizan cookies para almacenar tus preferencias y configuraciones de juego, de la misma manera que Simulador de Comida Rápida recuerda tus estrategias ganadoras y temas de restaurante favoritos. Estas cookies nos permiten ofrecerte una experiencia de juego más personalizada e inmersiva."
+        },
+        "policyUpdate": {
+            "title": "Actualizaciones de la Política",
+            "content": "Podemos actualizar periódicamente esta política de privacidad para reflejar cambios en nuestras prácticas o características del juego. Te recomendamos revisar esta política regularmente para estar informado sobre cómo gestionamos tu información en Simulador de Comida Rápida."
+        },
+        "noLogin": {
+            "title": "No Se Requiere Inicio de Sesión",
+            "content": "Simulador de Comida Rápida está diseñado para jugar al instante sin necesidad de crear una cuenta o iniciar sesión. Puedes sumergirte en tu aventura culinaria resolviendo rompecabezas directamente en tu navegador, sin necesidad de información personal de identificación."
+        }
+    }
+}

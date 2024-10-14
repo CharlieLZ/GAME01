@@ -1,0 +1,34 @@
+{
+    "Metadata": {
+        "title": "Terma Penggunaan | Simulator Makanan Segera",
+        "description": "Ketahui peraturan dapur sebelum anda mula membakar burger dan menyelesaikan teka-teki dalam Simulator Makanan Segera."
+    },
+    "title": "Terma Penggunaan",
+    "subtitle": "Resipi Anda untuk Pengalaman Simulator Makanan Segera yang Adil dan Menyeronokkan",
+    "sections": {
+        "acceptance": {
+            "title": "Menerima Menu",
+            "content": "Dengan terjun ke dalam Simulator Makanan Segera, anda bersetuju untuk mematuhi peraturan rumah kami. Anggaplah ia seperti memakai topi chef maya anda - anda akan melibatkan diri dalam pengalaman kuliner penuh!"
+        },
+        "userBehavior": {
+            "title": "Tata Tertib Dapur",
+            "content": "Di restoran maya kami, perilaku baik sama pentingnya dengan makanan yang baik. Main adil, hormati rakan chef anda, dan pastikan dapur bebas dari drama. Sebarang tingkah laku buruk boleh menyebabkan anda menggantung apron anda untuk selamanya."
+        },
+        "disclaimer": {
+            "title": "Keadaan Panas di Dapur",
+            "content": "Simulator Makanan Segera boleh menjadi seintens dapur sebenar semasa waktu sibuk. Kami tidak bertanggungjawab jika anda merasa tekanan dari tahap yang sukar atau permainan kompetitif. Ingat, ia hanya permainan - jangan biarkan ia membakar anda!"
+        },
+        "modification": {
+            "title": "Menukar Menu",
+            "content": "Kami mungkin akan menambah rasa kepada terma ini sekali-sekala, sama seperti kami mengemaskini resipi teka-teki kami. Meneruskan bermain selepas perubahan bermakna anda berpuas hati dengan citarasa baru terma kami."
+        },
+        "noAccount": {
+            "title": "Tidak Perlu Tempahan",
+            "content": "Simulator Makanan Segera adalah sebuah restoran berjalan masuk - tiada akaun diperlukan! Terus sahaja masuk ke dapur dari pelayar anda. Cuma ingat, tanpa akaun, karya kuliner dan pencapaian anda mungkin tidak akan disimpan untuk kali seterusnya."
+        },
+        "intellectualProperty": {
+            "title": "Sos Rahsia Kami",
+            "content": "Segala di Simulator Makanan Segera - dari grafik yang memukau hingga mekanik permainan yang menggugah selera - adalah resipi istimewa kami. Sila jangan cuba meniru, berkongsi, atau mengubah ramuan rahsia kami tanpa bertanya kepada chef ketua (itu kami) terlebih dahulu."
+        }
+    }
+}

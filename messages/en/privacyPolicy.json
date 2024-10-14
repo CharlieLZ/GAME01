@@ -1,0 +1,30 @@
+{
+  "Metadata": {
+    "title": "Privacy Policy | Fast Food Simulator",
+    "description": "Discover how we safeguard your privacy while you enjoy Fast Food Simulator, the captivating online puzzle game."
+  },
+  "title": "Privacy Policy",
+  "subtitle": "Protecting Your Data in Fast Food Simulator",
+  "sections": {
+    "informationCollection": {
+      "title": "Information Collection",
+      "content": "We collect your game data in Fast Food Simulator, including your performance metrics, food placement strategies, and gameplay statistics. This information is utilized to enhance your gaming experience and refine the game's features."
+    },
+    "dataSecurity": {
+      "title": "Data Security",
+      "content": "We employ state-of-the-art encryption technology to safeguard your data, ensuring it's as secure as your high scores in Fast Food Simulator. In this digital landscape, we maintain constant vigilance to protect your information."
+    },
+    "cookieUsage": {
+      "title": "Cookie Usage",
+      "content": "Cookies are used to store your game preferences and settings, much like how Fast Food Simulator remembers your winning strategies and favorite restaurant themes. These cookies enable us to deliver a more tailored and immersive gaming experience."
+    },
+    "policyUpdate": {
+      "title": "Policy Updates",
+      "content": "We may periodically update this privacy policy to reflect changes in our practices or game features. We encourage you to review this policy regularly to stay informed about how we manage your information in Fast Food Simulator."
+    },
+    "noLogin": {
+      "title": "No Login Required",
+      "content": "Fast Food Simulator is designed for instant play without the need for account creation or login. You can dive into your culinary puzzle-solving adventure directly in your browser, with no personal identification information required."
+    }
+  }
+}

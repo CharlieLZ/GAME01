@@ -1,0 +1,113 @@
+{
+    "Metadata": {
+        "title": "Fast Food Simulator: Het Ultieme Restaurant Management Spel",
+        "description": "Ervaar de spanning van het runnen van een fastfoodrestaurant in Fast Food Simulator. Neem bestellingen op, serveer klanten en beheer je keuken in dit spannende simulatiespel. Download en speel vandaag!",
+        "keywords": "Fast Food Simulator, Fast Food Simulator spel, restaurantbeheer, simulatiespel, voedselservice spel"
+    },
+    "hero": {
+        "title": "Fast Food Simulator: Beheers de Kunst van Fastfood Management",
+        "subtitle": "Stap in de spannende wereld van fastfood simulatie!"
+    },
+    "introduction": {
+        "title": "Spelintroductie",
+        "content": "Fast Food Simulator is een snel, boeiend simulatiespel dat je midden in een druk fastfoodrestaurant plaatst. Ontwikkeld door DarkPlay, test dit spel je multitasking vaardigheden terwijl je bestellingen opneemt, klanten tevredenstelt en je keuken soepel laat draaien. Als jonge ober is het jouw missie om bestellingen op te nemen, voedsel te bereiden en klanten snel en efficiënt te bedienen."
+    },
+    "howToPlay": {
+        "title": "Hoe te Spelen Fast Food Simulator",
+        "steps": [
+            "Neem Bestellingen Op: Luister goed naar de verzoeken van klanten en voer ze correct in.",
+            "Bereid Voedsel: Gebruik de keuken om hamburgers te koken, kippenvleugels te frituren en andere menu-items voor te bereiden.",
+            "Bedien Snel: Plaats de juiste items op dienbladen en lever ze aan de juiste klanten.",
+            "Beheer Tijd: Balans meerdere bestellingen en prioriteer taken om het restaurant soepel te laten draaien.",
+            "Verwerk Betalingen: Zorg ervoor dat elke bestelling correct wordt gefactureerd om winstgevendheid te behouden."
+        ]
+    },
+    "controls": {
+        "title": "Spelbesturing",
+        "items": [
+            "E: Selecteer items of interacteer met objecten",
+            "W, A, S, D: Beweeg je personage door het restaurant",
+            "Muis: Richt en navigeer door menu's"
+        ]
+    },
+    "features": {
+        "title": "Belangrijkste Kenmerken",
+        "items": [
+            "Realistische fastfoodrestaurant omgeving",
+            "Variëteit aan menu-items zoals hamburgers, frisdranken, frietjes en kippenvleugels",
+            "Dynamische klantinteracties",
+            "Tijdmanagement uitdagingen",
+            "Keukenbeheer simulatie",
+            "Financiële aspecten van het runnen van een restaurant"
+        ]
+    },
+    "screenshots": {
+        "title": "Spelscreenshots"
+    },
+    "playerReviews": {
+        "title": "Wat Spelers Zeggen Over Fast Food Simulator",
+        "reviews": [
+            {
+                "content": "Dit spel vangt echt de chaos van werken in fastfood. Het is verslavend en uitdagend!",
+                "author": "BurgerMaster99"
+            },
+            {
+                "content": "Ik hou van hoe realistisch de klantinteracties zijn. Het is alsof ik terug ben bij mijn eerste baan!",
+                "author": "NostalgicServer"
+            },
+            {
+                "content": "Het tijdmanagement aspect is precies goed. Het is een geweldige manier om multitask vaardigheden te verbeteren.",
+                "author": "EfficiencyQueen"
+            },
+            {
+                "content": "Fast Food Simulator is verrassend leerzaam. Ik heb veel geleerd over restaurantoperaties.",
+                "author": "CuriousCook"
+            },
+            {
+                "content": "De graphics zijn geweldig! Het voedsel ziet er zo echt uit, het maakt me hongerig tijdens het spelen.",
+                "author": "FoodieGamer"
+            },
+            {
+                "content": "Ik waardeer het financieel management aspect. Het voegt diepte toe aan de gameplay.",
+                "author": "BusinessMinded"
+            },
+            {
+                "content": "De variëteit aan menu-items houdt het spel interessant. Altijd iets nieuws om te beheersen!",
+                "author": "MenuExplorer"
+            },
+            {
+                "content": "Fast Food Simulator is mijn favoriete spel voor stressverlichting. Het is chaotisch maar zo bevredigend!",
+                "author": "ZenChef"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Veelgestelde Vragen",
+        "questions": [
+            {
+                "question": "Is Fast Food Simulator gratis te spelen?",
+                "answer": "Fast Food Simulator biedt een gratis versie met basisfuncties. Premium content is beschikbaar via in-app aankopen."
+            },
+            {
+                "question": "Kan ik Fast Food Simulator offline spelen?",
+                "answer": "Ja, Fast Food Simulator kan offline worden gespeeld, zodat je op elk moment en overal van het spel kunt genieten."
+            },
+            {
+                "question": "Hoe vaak wordt er nieuwe inhoud toegevoegd aan Fast Food Simulator?",
+                "answer": "We updaten Fast Food Simulator regelmatig met nieuwe menu-items, restaurantindelingen en uitdagingen om de gameplay fris en spannend te houden."
+            },
+            {
+                "question": "Zijn er leeftijdsbeperkingen voor Fast Food Simulator?",
+                "answer": "Fast Food Simulator heeft de classificatie E voor Iedereen en is geschikt voor spelers van alle leeftijden."
+            },
+            {
+                "question": "Kan ik mijn restaurant aanpassen in Fast Food Simulator?",
+                "answer": "Ja, naarmate je vordert in het spel, ontgrendel je verschillende aanpassingsopties voor de indeling en inrichting van je restaurant."
+            },
+            {
+                "question": "Is er een multiplayer modus in Fast Food Simulator?",
+                "answer": "Momenteel is Fast Food Simulator een singleplayer ervaring, maar we overwegen om in toekomstige updates multiplayer functies toe te voegen."
+            }
+        ]
+    }
+}

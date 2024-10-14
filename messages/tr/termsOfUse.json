@@ -1,0 +1,34 @@
+{
+    "Metadata": {
+        "title": "Kullanım Koşulları | Fast Food Simülatörü",
+        "description": "Fast Food Simülatörü'nde burger çevirmeye ve bulmacaları çözmeye başlamadan önce mutfak kurallarını keşfedin."
+    },
+    "title": "Kullanım Koşulları",
+    "subtitle": "Adil ve Eğlenceli Bir Fast Food Simülatörü Deneyimi İçin Tarifiniz",
+    "sections": {
+        "acceptance": {
+            "title": "Menüyü Kabul Etmek",
+            "content": "Fast Food Simülatörü'ne dalarak, ev kurallarımıza uymayı kabul ediyorsunuz. Bunu sanal şef şapkanızı takmak gibi düşünün - tam bir mutfak deneyimini yaşamayı taahhüt ediyorsunuz!"
+        },
+        "userBehavior": {
+            "title": "Mutfak Görgü Kuralları",
+            "content": "Sanal restoranımızda, iyi davranış en az iyi yemek kadar önemlidir. Adil oynayın, diğer şeflere saygı gösterin ve mutfağı dramasız tutun. Herhangi bir kötü davranış, önlüğünüzü sonsuza dek asmanıza neden olabilir."
+        },
+        "disclaimer": {
+            "title": "Mutfakta Sıcaklık",
+            "content": "Fast Food Simülatörü, yoğun bir saat sırasında gerçek bir mutfak kadar heyecanlı olabilir. Zor seviyelerden veya rekabetçi oyundan kaynaklanan baskıdan sorumlu değiliz. Unutmayın, bu sadece bir oyun - sizi tüketmesine izin vermeyin!"
+        },
+        "modification": {
+            "title": "Menüyü Değiştirmek",
+            "content": "Bu koşulları ara sıra yeni bulmaca tariflerimiz gibi renklendirebiliriz. Değişikliklerden sonra oynamaya devam etmek, yeni koşullarımızın tadından memnun olduğunuz anlamına gelir."
+        },
+        "noAccount": {
+            "title": "Rezervasyon Gerekmez",
+            "content": "Fast Food Simülatörü, bir gir-çık restoran - hesap gerekmez! Tarayıcınızdan doğrudan mutfağa atlayın. Ancak unutmayın, bir hesap olmadan, aşçılık harikalarınız ve başarılarınız bir sonraki sefere kaydedilmeyebilir."
+        },
+        "intellectualProperty": {
+            "title": "Gizli Sosumuz",
+            "content": "Fast Food Simülatörü'ndeki her şey - cızırdayan grafiklerden iştah açıcı oyun mekaniklerine kadar - özel tarifimizdir. Lütfen gizli malzemelerimizi kopyalamaya, paylaşmaya veya karıştırmaya çalışmayın; öncelikle baş aşçıyı (yani bizi) sormadan."
+        }
+    }
+}

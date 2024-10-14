@@ -1,0 +1,34 @@
+{
+  "Metadata": {
+    "title": "Nutzungsbedingungen | Fast Food Simulator",
+    "description": "Entdecken Sie die Regeln der Küche, bevor Sie im Fast Food Simulator Burger braten und Rätsel lösen."
+  },
+  "title": "Nutzungsbedingungen",
+  "subtitle": "Ihr Rezept für ein faires und spaßiges Fast Food Simulator-Erlebnis",
+  "sections": {
+    "acceptance": {
+      "title": "Annahme des Menüs",
+      "content": "Indem Sie in den Fast Food Simulator eintauchen, stimmen Sie unseren Hausregeln zu. Denken Sie daran, es ist wie das Aufsetzen eines virtuellen Kochhuts – Sie verpflichten sich zum vollen kulinarischen Erlebnis!"
+    },
+    "userBehavior": {
+      "title": "Küchenetikette",
+      "content": "In unserem virtuellen Restaurant ist gutes Benehmen genauso wichtig wie gutes Essen. Spielen Sie fair, respektieren Sie Ihre Mitköche und halten Sie die Küche drama-frei. Jegliches Fehlverhalten könnte dazu führen, dass Sie die Schürze endgültig ablegen müssen."
+    },
+    "disclaimer": {
+      "title": "Die Hitze der Küche",
+      "content": "Der Fast Food Simulator kann so intensiv werden wie eine reale Küche während der Stoßzeit. Wir sind nicht verantwortlich, wenn Sie den Stress von kniffligen Levels oder wettbewerbsorientiertem Spiel spüren. Denken Sie daran, es ist nur ein Spiel – lassen Sie sich nicht davon ausbrennen!"
+    },
+    "modification": {
+      "title": "Änderung des Menüs",
+      "content": "Wir könnten diese Bedingungen gelegentlich aufpeppen, genau wie wir unsere Puzzlerezepte aktualisieren. Wenn Sie nach Änderungen weiterspielen, bedeutet das, dass Sie mit dem neuen Geschmack unserer Bedingungen zufrieden sind."
+    },
+    "noAccount": {
+      "title": "Keine Reservierung erforderlich",
+      "content": "Der Fast Food Simulator ist ein Restaurant zum Hereinkommen – kein Konto erforderlich! Springen Sie direkt von Ihrem Browser in die Küche. Denken Sie jedoch daran, dass ohne ein Konto Ihre kulinarischen Meisterwerke und Erfolge möglicherweise nicht für das nächste Mal gespeichert werden."
+    },
+    "intellectualProperty": {
+      "title": "Unsere geheime Sauce",
+      "content": "Alles im Fast Food Simulator - von den zischenden Grafiken bis zu den mundwässernden Spielmechaniken - ist unser spezielles Rezept. Bitte versuchen Sie nicht, unsere geheimen Zutaten zu kopieren, zu teilen oder zu remixen, ohne zuerst den Chefkoch (also uns) zu fragen."
+    }
+  }
+}

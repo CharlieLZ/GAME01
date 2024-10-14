@@ -1,0 +1,113 @@
+{
+    "Metadata": {
+        "title": "Fast Food Simulator: Nihai Restoran Yönetimi Oyunu",
+        "description": "Fast Food Simulator'de bir fast food restoranı işletmenin heyecanını yaşayın. Sipariş alın, müşterilere hizmet verin ve mutfağınızı yönetin. Bugün indirin ve oynayın!",
+        "keywords": "Fast Food Simulator, Fast Food Simulator oyunu, restoran yönetimi, simülasyon oyunu, yiyecek hizmeti oyunu"
+    },
+    "hero": {
+        "title": "Fast Food Simulator: Fast Food Yönetim Sanatını Ustalaş!",
+        "subtitle": "Fast food simülasyonunun heyecan verici dünyasına adım atın!"
+    },
+    "introduction": {
+        "title": "Oyun Tanıtımı",
+        "content": "Fast Food Simulator, sizi yoğun bir fast food restoranının kalbine çeken, hızlı tempolu bir simülasyon oyunudur. DarkPlay tarafından geliştirilen bu oyun, siparişleri dengelediğiniz, müşterileri memnun ettiğiniz ve mutfağınızı sorunsuz çalıştırdığınız multitasking becerilerinizi test eder. Genç bir garson olarak, göreviniz siparişleri almak, yiyecek hazırlamak ve müşterilere hızlı ve verimli bir şekilde servis yapmaktır."
+    },
+    "howToPlay": {
+        "title": "Fast Food Simulator Nasıl Oynanır",
+        "steps": [
+            "Sipariş Al: Müşteri isteklerini dikkatlice dinleyin ve doğru şekilde girin.",
+            "Yiyecek Hazırlama: Mutfağı kullanarak burger pişirin, tavuk kanatları kızartın ve diğer menü öğelerini hazırlayın.",
+            "Hızlı Servis: Doğru ürünleri tepsilere yerleştirin ve doğru müşterilere teslim edin.",
+            "Zamanı Yönet: Restoranın sorunsuz çalışmasını sağlamak için birden fazla siparişi dengeleyin ve görevleri önceliklendirin.",
+            "Ödemeleri Yönetin: Her siparişin doğru şekilde şarj edildiğinden emin olun ve karlılığı sürdürün."
+        ]
+    },
+    "controls": {
+        "title": "Oyun Kontrolleri",
+        "items": [
+            "E: Öğeleri seç veya nesnelerle etkileşimde bulun",
+            "W, A, S, D: Karakterinizi restoranın içinde hareket ettirin",
+            "Mouse: Menülerde gezin ve hedef al"
+        ]
+    },
+    "features": {
+        "title": "Ana Özellikler",
+        "items": [
+            "Gerçekçi fast food restoran ortamı",
+            "Hamburgerler, alkolsüz içecekler, patates kızartması ve tavuk kanatları dahil çeşitli menü öğeleri",
+            "Dinamik müşteri etkileşimleri",
+            "Zaman yönetimi zorlukları",
+            "Mutfak yönetimi simülasyonu",
+            "Restoran işletmenin finansal yönleri"
+        ]
+    },
+    "screenshots": {
+        "title": "Oyun Ekran Görüntüleri"
+    },
+    "playerReviews": {
+        "title": "Oyuncular Fast Food Simulator Hakkında Ne Diyor",
+        "reviews": [
+            {
+                "content": "Bu oyun fast food'da çalışma kaosunu gerçekten yakalıyor. Bağımlılık yapıcı ve zorlayıcı!",
+                "author": "BurgerMaster99"
+            },
+            {
+                "content": "Müşteri etkileşimlerinin ne kadar gerçekçi olduğunu seviyorum. İlk iş yerimde gibiyim!",
+                "author": "NostalgicServer"
+            },
+            {
+                "content": "Zaman yönetimi yönü tam nokta atışı. Multitasking becerileri geliştirmek için harika bir yol.",
+                "author": "EfficiencyQueen"
+            },
+            {
+                "content": "Fast Food Simulator şaşırtıcı derecede eğitici. Restoran operasyonları hakkında çok şey öğrendim.",
+                "author": "CuriousCook"
+            },
+            {
+                "content": "Grafikler harika! Yemekler çok gerçekçi görünüyor, oynarken acıkıyorum.",
+                "author": "FoodieGamer"
+            },
+            {
+                "content": "Finansal yönetim yönünü takdir ediyorum. Oyuna derinlik katıyor.",
+                "author": "BusinessMinded"
+            },
+            {
+                "content": "Menüdeki çeşitlilik oyunu ilginç kılıyor. Her zaman ustalaşacak yeni bir şey var!",
+                "author": "MenuExplorer"
+            },
+            {
+                "content": "Fast Food Simulator stres atmak için başvuracağım oyun. Kaotik ama çok tatmin edici!",
+                "author": "ZenChef"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Sıkça Sorulan Sorular",
+        "questions": [
+            {
+                "question": "Fast Food Simulator oynaması ücretsiz mi?",
+                "answer": "Fast Food Simulator, temel özelliklerle ücretsiz bir sürüm sunar. Premium içerik uygulama içi satın alımlar yoluyla mevcuttur."
+            },
+            {
+                "question": "Fast Food Simulator çevrimdışı oynanabilir mi?",
+                "answer": "Evet, Fast Food Simulator çevrimdışı oynanabilir, böylece oyunun keyfini istediğiniz zaman, istediğiniz yerde çıkarabilirsiniz."
+            },
+            {
+                "question": "Fast Food Simulator'a ne sıklıkla yeni içerik ekleniyor?",
+                "answer": "Fast Food Simulator'u, oyunun taze ve heyecan verici kalmasını sağlamak için yeni menü öğeleri, restoran düzenleri ve zorluklarla düzenli olarak güncelliyoruz."
+            },
+            {
+                "question": "Fast Food Simulator için yaş sınırlamaları var mı?",
+                "answer": "Fast Food Simulator, Herkes İçin (E) olarak derecelendirilmiştir ve her yaş grubundan oyuncular için uygundur."
+            },
+            {
+                "question": "Fast Food Simulator'de restoranımı özelleştirebilir miyim?",
+                "answer": "Evet, oyunda ilerledikçe restoranınızın düzeni ve dekoru için çeşitli özelleştirme seçeneklerinin kilidini açacaksınız."
+            },
+            {
+                "question": "Fast Food Simulator'da çok oyunculu mod var mı?",
+                "answer": "Şu anda, Fast Food Simulator tek oyunculu bir deneyimdir, ancak gelecekteki güncellemelerde çok oyunculu özellikler eklemeyi düşünüyoruz."
+            }
+        ]
+    }
+}

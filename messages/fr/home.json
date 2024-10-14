@@ -1,0 +1,113 @@
+{
+    "Metadata": {
+        "title": "Simulateur de Restauration Rapide : Le Jeu Ultime de Gestion de Restaurant",
+        "description": "Ressentez l'excitation de gérer un restaurant de restauration rapide dans Simulateur de Restauration Rapide. Prenez les commandes, servez les clients et gérez votre cuisine dans ce jeu de simulation passionnant. Téléchargez et jouez aujourd'hui !",
+        "keywords": "Simulateur de Restauration Rapide, jeu Simulateur de Restauration Rapide, gestion de restaurant, jeu de simulation, jeu de services alimentaires"
+    },
+    "hero": {
+        "title": "Simulateur de Restauration Rapide : Maîtrisez l'Art de la Gestion en Restauration Rapide",
+        "subtitle": "Entrez dans le monde excitant de la simulation de restauration rapide !"
+    },
+    "introduction": {
+        "title": "Introduction au Jeu",
+        "content": "Simulateur de Restauration Rapide est un jeu de simulation captivant et rapide qui vous plonge au cœur d'un restaurant de restauration rapide en effervescence. Développé par DarkPlay, ce jeu met vos compétences multitâches à l'épreuve alors que vous jonglez entre les commandes, satisfaites les clients et gardez votre cuisine bien organisée. En tant que jeune serveur, votre mission est de prendre les commandes, préparer les repas et servir les clients rapidement et efficacement."
+    },
+    "howToPlay": {
+        "title": "Comment Jouer à Simulateur de Restauration Rapide",
+        "steps": [
+            "Prendre les Commandes : Écoutez attentivement les demandes des clients et saisissez-les correctement.",
+            "Préparer les Repas : Utilisez la cuisine pour cuire des burgers, frire des ailes de poulet, et préparer d'autres éléments du menu.",
+            "Servir Rapidement : Placez les articles corrects sur les plateaux et livrez-les aux bons clients.",
+            "Gérer le Temps : Équilibrez plusieurs commandes et priorisez les tâches pour que le restaurant fonctionne sans accroc.",
+            "Gérer les Paiements : Assurez-vous que chaque commande est facturée correctement pour maintenir la rentabilité."
+        ]
+    },
+    "controls": {
+        "title": "Commandes de Jeu",
+        "items": [
+            "E : Sélectionner les objets ou interagir avec les objets",
+            "W, A, S, D : Déplacez votre personnage dans le restaurant",
+            "Souris : Viser et naviguer dans les menus"
+        ]
+    },
+    "features": {
+        "title": "Caractéristiques Principales",
+        "items": [
+            "Environnement réaliste de restaurant de restauration rapide",
+            "Variété d'éléments de menu incluant hamburgers, boissons gazeuses, frites et ailes de poulet",
+            "Interactions dynamiques avec les clients",
+            "Défis de gestion du temps",
+            "Simulation de gestion de cuisine",
+            "Aspects financiers de la gestion d'un restaurant"
+        ]
+    },
+    "screenshots": {
+        "title": "Captures d'Écran du Jeu"
+    },
+    "playerReviews": {
+        "title": "Ce que les Joueurs Disent à propos de Simulateur de Restauration Rapide",
+        "reviews": [
+            {
+                "content": "Ce jeu capture vraiment le chaos de travailler dans la restauration rapide. C'est addictif et exigeant !",
+                "author": "BurgerMaster99"
+            },
+            {
+                "content": "J'adore à quel point les interactions avec les clients sont réalistes. C'est comme si je retournais à mon premier emploi !",
+                "author": "NostalgicServer"
+            },
+            {
+                "content": "L'aspect gestion du temps est parfait. C'est un excellent moyen d'améliorer les compétences de multitâche.",
+                "author": "EfficiencyQueen"
+            },
+            {
+                "content": "Simulateur de Restauration Rapide est étonnamment éducatif. J'ai beaucoup appris sur l'exploitation d'un restaurant.",
+                "author": "CuriousCook"
+            },
+            {
+                "content": "Les graphismes sont incroyables ! La nourriture a l'air tellement réelle, ça me donne faim en jouant.",
+                "author": "FoodieGamer"
+            },
+            {
+                "content": "J'apprécie l'aspect gestion financière. Cela ajoute de la profondeur au gameplay.",
+                "author": "BusinessMinded"
+            },
+            {
+                "content": "La variété des articles au menu garde le jeu intéressant. Toujours quelque chose de nouveau à maîtriser !",
+                "author": "MenuExplorer"
+            },
+            {
+                "content": "Simulateur de Restauration Rapide est mon jeu de prédilection pour soulager le stress. C'est chaotique mais si satisfaisant !",
+                "author": "ZenChef"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Questions Fréquemment Posées",
+        "questions": [
+            {
+                "question": "Le Simulateur de Restauration Rapide est-il gratuit ?",
+                "answer": "Simulateur de Restauration Rapide offre une version gratuite avec des fonctionnalités de base. Des contenus premium sont disponibles via des achats intégrés."
+            },
+            {
+                "question": "Puis-je jouer à Simulateur de Restauration Rapide hors ligne ?",
+                "answer": "Oui, Simulateur de Restauration Rapide peut être joué hors ligne, vous permettant de profiter du jeu à tout moment, n'importe où."
+            },
+            {
+                "question": "À quelle fréquence du nouveau contenu est-il ajouté à Simulateur de Restauration Rapide ?",
+                "answer": "Nous mettons régulièrement à jour Simulateur de Restauration Rapide avec de nouveaux éléments de menu, agencements de restaurant, et défis pour garder le gameplay frais et excitant."
+            },
+            {
+                "question": "Y a-t-il des restrictions d'âge pour le Simulateur de Restauration Rapide ?",
+                "answer": "Simulateur de Restauration Rapide est classé E pour Tous et convient aux joueurs de tout âge."
+            },
+            {
+                "question": "Puis-je personnaliser mon restaurant dans Simulateur de Restauration Rapide ?",
+                "answer": "Oui, à mesure que vous progressez dans le jeu, vous débloquerez diverses options de personnalisation pour l'agencement et la décoration de votre restaurant."
+            },
+            {
+                "question": "Y a-t-il un mode multijoueur dans Simulateur de Restauration Rapide ?",
+                "answer": "Actuellement, Simulateur de Restauration Rapide est une expérience solo, mais nous envisageons d'ajouter des fonctionnalités multijoueurs dans de futures mises à jour."
+            }
+        ]
+    }
+}

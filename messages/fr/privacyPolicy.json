@@ -1,0 +1,30 @@
+{
+    "Metadata": {
+        "title": "Politique de Confidentialité | Simulateur de Restauration Rapide",
+        "description": "Découvrez comment nous protégeons votre vie privée pendant que vous profitez de Simulateur de Restauration Rapide, le captivant jeu de puzzle en ligne."
+    },
+    "title": "Politique de Confidentialité",
+    "subtitle": "Protection de Vos Données dans Simulateur de Restauration Rapide",
+    "sections": {
+        "informationCollection": {
+            "title": "Collecte d'Informations",
+            "content": "Nous collectons vos données de jeu dans Simulateur de Restauration Rapide, y compris vos métriques de performance, stratégies de placement des aliments et statistiques de jeu. Ces informations sont utilisées pour améliorer votre expérience de jeu et affiner les fonctionnalités du jeu."
+        },
+        "dataSecurity": {
+            "title": "Sécurité des Données",
+            "content": "Nous employons une technologie de cryptage de pointe pour protéger vos données, veillant à ce qu'elles soient aussi sûres que vos scores élevés dans Simulateur de Restauration Rapide. Dans ce paysage numérique, nous maintenons une vigilance constante pour protéger vos informations."
+        },
+        "cookieUsage": {
+            "title": "Utilisation des Cookies",
+            "content": "Les cookies sont utilisés pour stocker vos préférences et paramètres de jeu, tout comme Simulateur de Restauration Rapide se souvient de vos stratégies gagnantes et de vos thèmes de restaurant préférés. Ces cookies nous permettent d'offrir une expérience de jeu plus personnalisée et immersive."
+        },
+        "policyUpdate": {
+            "title": "Mises à Jour de la Politique",
+            "content": "Nous pouvons mettre à jour périodiquement cette politique de confidentialité pour refléter les changements dans nos pratiques ou les fonctionnalités du jeu. Nous vous encourageons à consulter régulièrement cette politique pour rester informé sur la façon dont nous gérons vos informations dans Simulateur de Restauration Rapide."
+        },
+        "noLogin": {
+            "title": "Pas de Connexion Requise",
+            "content": "Simulateur de Restauration Rapide est conçu pour être joué instantanément sans besoin de création de compte ou de connexion. Vous pouvez plonger directement dans votre aventure de résolution de puzzles culinaires directement dans votre navigateur, sans avoir à fournir d'informations d'identification personnelle."
+        }
+    }
+}

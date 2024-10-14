@@ -1,0 +1,113 @@
+{
+  "Metadata": {
+    "title": "Trình Giả Lập Đồ Ăn Nhanh: Trò Chơi Quản Lý Nhà Hàng Tối Thượng",
+    "description": "Trải nghiệm cảm giác điều hành một nhà hàng đồ ăn nhanh trong Trình Giả Lập Đồ Ăn Nhanh. Nhận đơn hàng, phục vụ khách hàng và quản lý bếp trong trò chơi mô phỏng thú vị này. Tải về và chơi ngay hôm nay!",
+    "keywords": "Trình Giả Lập Đồ Ăn Nhanh, trò chơi Trình Giả Lập Đồ Ăn Nhanh, quản lý nhà hàng, trò chơi mô phỏng, trò chơi phục vụ thức ăn"
+  },
+  "hero": {
+    "title": "Trình Giả Lập Đồ Ăn Nhanh: Làm Chủ Nghệ Thuật Quản Lý Đồ Ăn Nhanh",
+    "subtitle": "Bước vào thế giới thú vị của mô phỏng đồ ăn nhanh!"
+  },
+  "introduction": {
+    "title": "Giới Thiệu Trò Chơi",
+    "content": "Trình Giả Lập Đồ Ăn Nhanh là trò chơi mô phỏng hấp dẫn đầy tốc độ đưa bạn vào trung tâm của một nhà hàng đồ ăn nhanh bận rộn. Được phát triển bởi DarkPlay, trò chơi này kiểm tra kỹ năng đa nhiệm của bạn khi bạn cân đối đơn hàng, làm hài lòng khách hàng và giữ cho nhà bếp hoạt động trơn tru. Là một người phục vụ trẻ tuổi, nhiệm vụ của bạn là nhận đơn hàng, chuẩn bị đồ ăn và phục vụ khách hàng một cách nhanh chóng và hiệu quả."
+  },
+  "howToPlay": {
+    "title": "Cách Chơi Trình Giả Lập Đồ Ăn Nhanh",
+    "steps": [
+      "Nhận Đơn Hàng: Lắng nghe kỹ các yêu cầu của khách hàng và nhập chúng chính xác.",
+      "Chuẩn Bị Đồ Ăn: Sử dụng nhà bếp để nấu bánh burger, chiên cánh gà và chuẩn bị các món khác trong thực đơn.",
+      "Phục Vụ Nhanh Chóng: Đặt đúng món lên khay và giao chúng cho đúng khách hàng.",
+      "Quản Lý Thời Gian: Cân đối nhiều đơn hàng và ưu tiên các nhiệm vụ để giữ cho nhà hàng hoạt động trơn tru.",
+      "Xử Lý Thanh Toán: Đảm bảo mỗi đơn hàng được tính phí đúng để duy trì lợi nhuận."
+    ]
+  },
+  "controls": {
+    "title": "Điều Khiển Trò Chơi",
+    "items": [
+      "E: Chọn mục hoặc tương tác với đối tượng",
+      "W, A, S, D: Di chuyển nhân vật xung quanh nhà hàng",
+      "Chuột: Nhắm và điều hướng menu"
+    ]
+  },
+  "features": {
+    "title": "Tính Năng Chính",
+    "items": [
+      "Môi trường nhà hàng đồ ăn nhanh chân thực",
+      "Đa dạng các món ăn như hamburger, nước ngọt, khoai tây chiên và cánh gà",
+      "Tương tác khách hàng linh hoạt",
+      "Thử thách quản lý thời gian",
+      "Mô phỏng quản lý nhà bếp",
+      "Khía cạnh tài chính của việc điều hành một nhà hàng"
+    ]
+  },
+  "screenshots": {
+    "title": "Hình Ảnh Trò Chơi"
+  },
+  "playerReviews": {
+    "title": "Người Chơi Nói Gì Về Trình Giả Lập Đồ Ăn Nhanh",
+    "reviews": [
+      {
+        "content": "Trò chơi này thực sự tái hiện sự hỗn loạn của việc làm việc trong cửa hàng đồ ăn nhanh. Nó gây nghiện và đầy thách thức!",
+        "author": "BurgerMaster99"
+      },
+      {
+        "content": "Tôi thích cách tương tác khách hàng rất chân thực. Giống như tôi trở lại công việc đầu tiên của mình vậy!",
+        "author": "NostalgicServer"
+      },
+      {
+        "content": "Khía cạnh quản lý thời gian rất chính xác. Đây là cách tuyệt vời để cải thiện kỹ năng đa nhiệm.",
+        "author": "EfficiencyQueen"
+      },
+      {
+        "content": "Trình Giả Lập Đồ Ăn Nhanh bất ngờ rất mang tính giáo dục. Tôi đã học được nhiều điều về hoạt động của nhà hàng.",
+        "author": "CuriousCook"
+      },
+      {
+        "content": "Đồ họa tuyệt vời! Thức ăn trông thật đến nỗi làm tôi thấy đói khi chơi.",
+        "author": "FoodieGamer"
+      },
+      {
+        "content": "Tôi đánh giá cao khía cạnh quản lý tài chính. Nó làm tăng chiều sâu cho trò chơi.",
+        "author": "BusinessMinded"
+      },
+      {
+        "content": "Sự đa dạng của thực đơn làm cho trò chơi thú vị. Luôn có thứ gì đó mới để chinh phục!",
+        "author": "MenuExplorer"
+      },
+      {
+        "content": "Trình Giả Lập Đồ Ăn Nhanh là trò chơi yêu thích của tôi để giảm căng thẳng. Nó hỗn loạn nhưng rất thỏa mãn!",
+        "author": "ZenChef"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Câu Hỏi Thường Gặp",
+    "questions": [
+      {
+        "question": "Trình Giả Lập Đồ Ăn Nhanh có miễn phí không?",
+        "answer": "Trình Giả Lập Đồ Ăn Nhanh cung cấp một phiên bản miễn phí với các tính năng cơ bản. Nội dung cao cấp có sẵn thông qua các giao dịch mua trong ứng dụng."
+      },
+      {
+        "question": "Tôi có thể chơi Trình Giả Lập Đồ Ăn Nhanh không có mạng không?",
+        "answer": "Có, Trình Giả Lập Đồ Ăn Nhanh có thể chơi offline, cho phép bạn thưởng thức trò chơi bất cứ lúc nào, bất cứ nơi đâu."
+      },
+      {
+        "question": "Bao lâu một lần có nội dung mới được thêm vào Trình Giả Lập Đồ Ăn Nhanh?",
+        "answer": "Chúng tôi cập nhật Trình Giả Lập Đồ Ăn Nhanh thường xuyên với các món mới, bản vẽ nhà hàng và thử thách để giữ cho trò chơi luôn mới mẻ và thú vị."
+      },
+      {
+        "question": "Trình Giả Lập Đồ Ăn Nhanh có hạn chế độ tuổi không?",
+        "answer": "Trình Giả Lập Đồ Ăn Nhanh được phân loại E cho Tất Cả Mọi Người và phù hợp với người chơi ở mọi lứa tuổi."
+      },
+      {
+        "question": "Tôi có thể tùy chỉnh nhà hàng của mình trong Trình Giả Lập Đồ Ăn Nhanh không?",
+        "answer": "Có, khi bạn tiến bộ trong trò chơi, bạn sẽ mở khóa các tùy chọn tùy chỉnh khác nhau cho bố trí và trang trí của nhà hàng."
+      },
+      {
+        "question": "Có chế độ chơi nhiều người trong Trình Giả Lập Đồ Ăn Nhanh không?",
+        "answer": "Hiện tại, Trình Giả Lập Đồ Ăn Nhanh là một trải nghiệm chơi đơn, nhưng chúng tôi đang cân nhắc thêm các tính năng chơi nhiều người trong các bản cập nhật sắp tới."
+      }
+    ]
+  }
+}

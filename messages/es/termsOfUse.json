@@ -1,0 +1,34 @@
+{
+    "Metadata": {
+        "title": "Términos de Uso | Simulador de Comida Rápida",
+        "description": "Descubre las reglas de la cocina antes de comenzar a voltear hamburguesas y resolver acertijos en Simulador de Comida Rápida."
+    },
+    "title": "Términos de Uso",
+    "subtitle": "Tu Receta para una Experiencia Justa y Divertida en el Simulador de Comida Rápida",
+    "sections": {
+        "acceptance": {
+            "title": "Aceptar el Menú",
+            "content": "Al sumergirte en Simulador de Comida Rápida, estás de acuerdo en seguir nuestras reglas de casa. Piensa en ello como si te pusieras el gorro de chef virtual: ¡te comprometes con toda la experiencia culinaria!"
+        },
+        "userBehavior": {
+            "title": "Etiqueta en la Cocina",
+            "content": "En nuestro restaurante virtual, el buen comportamiento es tan importante como la buena comida. Juega con justicia, respeta a tus compañeros chefs y mantén la cocina libre de dramas. Cualquier juego sucio podría resultar en que cuelgues el delantal de manera definitiva."
+        },
+        "disclaimer": {
+            "title": "El Calor de la Cocina",
+            "content": "Simulador de Comida Rápida puede ponerse tan intenso como una cocina real durante la hora pico. No nos hacemos responsables si sientes el calor por los niveles complicados o el juego competitivo. Recuerda, es solo un juego: ¡no dejes que te queme!"
+        },
+        "modification": {
+            "title": "Cambiando el Menú",
+            "content": "Podríamos darle un toque especial a estos términos ocasionalmente, al igual que actualizamos nuestras recetas de acertijos. Continuar jugando después de los cambios significa que estás de acuerdo con el nuevo sabor de nuestros términos."
+        },
+        "noAccount": {
+            "title": "Sin Necesidad de Reserva",
+            "content": "Simulador de Comida Rápida es un restaurante sin necesitas reserva: ¡no se requiere cuenta! Entra directamente a la cocina desde tu navegador. Solo recuerda que, sin una cuenta, tus obras maestras culinarias y logros podrían no guardarse para la próxima vez."
+        },
+        "intellectualProperty": {
+            "title": "Nuestra Salsa Secreta",
+            "content": "Todo en Simulador de Comida Rápida - desde los gráficos chisporroteantes hasta las mecánicas del juego que hacen la boca agua - es nuestra receta especial. Por favor, no intentes copiar, compartir o remezclar nuestros ingredientes secretos sin preguntar al chef principal (nosotros) primero."
+        }
+    }
+}
